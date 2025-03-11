@@ -12,7 +12,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "black==24.10.0",
-        "keras==3.6.0",
+        "keras==3.9.0",
         "numpy==2.0.2",
         "requests==2.32.3",
         "scikit-learn==1.5.2",
