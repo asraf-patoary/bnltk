@@ -11,7 +11,7 @@ setup(
     url="https://github.com/ashwoolford/bnltk",
     packages=find_packages(),
     install_requires=[
-        "black==24.10.0",
+        "black==26.10.1",
         "keras==3.6.0",
         "numpy==2.0.2",
         "requests==2.32.3",
